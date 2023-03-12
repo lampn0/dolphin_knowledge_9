@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T16:55:23.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5FVPPRKyjBKUlTXbrKra" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-12T16:58:11.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QlqWWDSiVd6LM31yZde4" version="21.0.6" type="github" pages="2">
   <diagram name="RTL" id="pMV8WtoPvT9UNXybHXeX">
     <mxGraphModel dx="1593" dy="876" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -565,6 +565,9 @@
         </mxCell>
         <mxCell id="vSeRC4aTXHcnnyz1q6D_-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2;fillColor=#80A5FA;" vertex="1" parent="1">
           <mxGeometry x="120" y="435" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vSeRC4aTXHcnnyz1q6D_-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;negating=1;negSize=0.15;fillColor=#80A5FA;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
